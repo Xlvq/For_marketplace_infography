@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "infography"
+version = "0.1.0"
+description = ""
+authors = ["Egor xsoni.live@gmail.com"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytelegrambotapi = "^4.18.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
